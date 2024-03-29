@@ -1,0 +1,7 @@
+{
+  "name": "leopp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
